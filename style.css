@@ -1,0 +1,47 @@
+.cointner {
+    text-align: center;
+    background: linear-gradient(to right, white, rgb(206, 190, 190));
+    height: 650px;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.cal {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background: #ffa6a6;
+}
+
+input {
+    border-radius: 15px;
+    font-size: 30px;
+    border: 3px solid black;
+}
+
+table {
+    margin: auto;
+}
+
+button {
+    color: white;
+    border-radius: 18px;
+    font-size: 31px;
+    width: 85px;
+    background-color: black;
+    height: 50px;
+    margin: 5px;
+}
+
+button:hover {
+    font-size: 25px;
+    width: 75px;
+    color: darkkhaki;
+    background-color: white;
+    height: 50px;
+    margin: 5px;
+}
